@@ -1,8 +1,7 @@
 {
-  "url": "https://github.com/fwcd/tree-sitter-kotlin",
   "semver": false,
-  "min_version": null,
-  "lang": "kotlin",
+  "parser_version": "93bfeee1555d2b1442d68c44b0afde2a3b069e46",
   "location": null,
-  "max_version": null
+  "lang": "kotlin",
+  "url": "https://github.com/fwcd/tree-sitter-kotlin"
 }
